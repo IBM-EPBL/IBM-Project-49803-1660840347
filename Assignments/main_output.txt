@@ -1,0 +1,28 @@
+19 temperature is normal
+60 humidity is normal
+28 temperature is high
+Turn on Alarm
+67 humidity is high
+24 temperature is normal
+33 humidity is normal
+29 temperature is high
+Turn on Alarm
+86 humidity is high
+5 temperature is low
+93 humidity is high
+7 temperature is low
+18 humidity is low 
+10 temperature is low
+6 humidity is low 
+14 temperature is low
+57 humidity is normal
+10 temperature is low
+65 humidity is high
+14 temperature is low
+22 humidity is low 
+23 temperature is normal
+13 humidity is low 
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
